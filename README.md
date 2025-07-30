@@ -1,4 +1,4 @@
-# RestaurantJS Template - Next.js TailwindCSS Fundamental Project 5
+# Restaurant-1 RestaurantJS - Modern Next.js Frontend Restaurant Website (Design 1)
 
 ![project23](https://github.com/user-attachments/assets/77de8404-aeba-4f67-b5fe-0438e80bda73) ![Screenshot 2024-09-13 at 03 34 24](https://github.com/user-attachments/assets/1ef89f8a-e6f8-4bfa-9c95-453e35bbf4ee) ![Screenshot 2024-09-13 at 03 35 51](https://github.com/user-attachments/assets/9f3eb9e5-5dd7-46fd-9b23-aee505fa84d1) ![Screenshot 2024-09-13 at 03 34 55](https://github.com/user-attachments/assets/bd1df324-3ba9-45d9-a530-5ebce27cfe36) ![Screenshot 2024-09-13 at 03 35 12](https://github.com/user-attachments/assets/d6f0347c-3ec7-41d1-9d64-695ee0ddfd24) ![Screenshot 2024-09-13 at 03 35 33](https://github.com/user-attachments/assets/7bff98ba-b797-4c01-962e-ec0e2156bbd6)
 
@@ -8,7 +8,7 @@
 
 **RestaurantJS** is a modern, visually appealing static restaurant website built with Next.js 14, React.js, TailwindCSS, and a suite of supporting libraries. This project demonstrates how to build a responsive, animated, and interactive front-end application using a best-practices tech stack, suitable for learning, teaching, and real-world static site deployments.
 
-- **Live Demo:** [https://restaurant-js-arnob.vercel.app/](https://restaurant-js-arnob.vercel.app/)
+- **Live-Demo:** [https://restaurant-js-arnob.vercel.app/](https://restaurant-js-arnob.vercel.app/)
 
 > _Note: This project is implemented in JavaScript. A TypeScript version is also available at [RestaurantTS-NextJS](https://github.com/arnobt78/RestaurantTS-NextJS-Website)._
 
@@ -225,8 +225,15 @@ This project is a showcase of modern static site development using the React and
 
 ---
 
-## Happy Coding! 🚀
+## Happy Coding! 🎉
 
-Thank you for exploring and using RestaurantJS. If you find this project helpful, please give it a ⭐️ on GitHub!
+Feel free to use this project repository and extend this project further!
+
+If you have any questions or want to share your work, reach out via GitHub or my portfolio at [https://arnob-mahmud.vercel.app/](https://arnob-mahmud.vercel.app/).
+
+**Enjoy building and learning!** 🚀
+
+Thank you! 😊
 
 ---
+
